@@ -1,4 +1,5 @@
 {
   projectVersion: 1,
   name: Graphite Client,
+  beta: true
 }
