@@ -1,5 +1,13 @@
+latestVersionOfClient = "
 {
-  projectVersion: 1,
-  name: Graphite Client,
-  beta: true
+ "data": {
+  "details": [
+   {
+    "projectVersion": "1",
+     name: "Graphite Client",
+     beta: true,
+   }
+  ]
+ }
 }
+";
